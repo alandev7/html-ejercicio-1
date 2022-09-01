@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+  </head>
+  <body>
+    <h1>Encabezado 1</h1>
+    <!-- Este es mi primer comentario de dos líneas-->
+    <!-- Aprendiendo a documentar mi código con OpenBootcamp-->
+           <div>
+    
+        <h4>Lista desordenada</h4>
+        <ul>
+          <li><a href="https://www.youtube.com/watch?v=FsVBdL7svUY"</a></li>
+          <li><a href="https://www.youtube.com/watch?v=8lSzubWyy5w"</a></li>
+          <li><a href="https://www.youtube.com/watch?v=hA5jsVDjhmU"</a></li>
+         </ul>
+      </div>
+    </div>
+
+    <a href="mi-primera-pagina-web.html">Este es un enlace interno</a>
+
+    <img src="" alt="" id="" class="" />
+
+  </body>
+</html>
